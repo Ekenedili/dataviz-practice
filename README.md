@@ -12,7 +12,7 @@ In an alternate universe, I'd be a pediatric surgeon or maybe an anthropologist 
 # What I hope to learn
 At the end of this course, I want to have a good foundation in data visualization skills. I want to be a part of healthcare policy and healthcare decision making and I believe that telling convincing stories with data will be invaluable in my career path.
 
-Fun fact: I'm writing this on 2/8/2021 and I've had only three classe **BUT** I'm already a lot more conscious of how I use color on my Instagram stories.
+Fun fact: I'm writing this on 2/8/2021 and I've had only three classes **BUT** I'm already a lot more conscious of how I use color on my Instagram stories and I'm not even creating content! (*just sharing my unsolicited opinion on things that don't concern me*)
 
 # Portfolio
 I am new to all of this but here's where you can find all my *definitely* **cool** attempts at visualizing data!
