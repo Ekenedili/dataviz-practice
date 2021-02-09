@@ -1,5 +1,2 @@
-# dataviz-practice
-
-link to live site https://ekenedili.github.io/dataviz-practice/
-
-are you going to appear?
+# Welcome!
+This is my public portfolio for the Telling Stories with Data class at CMU!
