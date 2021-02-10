@@ -1,5 +1,4 @@
-#Hello
-This is a King County COVID visualization demo done in class
+## King County COVID visualization demo done in class
 
 
 
