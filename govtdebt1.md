@@ -1,4 +1,4 @@
-## Visualizing Govt Debt I ##
+# Visualizing Govt Debt I
 
 Here is my attempt at visualizing government debt as a percentage of GDP. The data is from the OECD website and it's data from 2019.
 
