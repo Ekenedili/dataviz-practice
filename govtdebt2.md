@@ -5,9 +5,5 @@ Enjoy!!
 <div class="flourish-embed flourish-chart" data-src="visualisation/5294865"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 
-[See this visualization in a bar chart]<>
-
-[Homepage]<>
-
 [To return to the homepage, click here](https://ekenedili.github.io/dataviz-practice/)
 
