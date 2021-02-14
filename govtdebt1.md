@@ -1,8 +1,8 @@
 # Visualizing Govt Debt I
 
-Here is my attempt at visualizing government debt as a percentage of GDP. The data is from the OECD website and it's data from 2019.
+This is a visualization of government debt as a percentage of GDP. The data is from the OECD website and it's data from 2019.
 
-The countries I highlighted are countries of interest to me; I live there or I have family there or I hope to visit someday or even live there!
+The countries I highlighted are countries of interest to me; I live there or I have family there or I hope to visit someday!
 
 Enjoy the visualization.
 
