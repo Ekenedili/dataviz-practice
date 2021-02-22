@@ -28,3 +28,6 @@ I am new to all of this but here's where you can find all my *definitely* **cool
 ## Visualizing Govt Debt part II
 <https://ekenedili.github.io/dataviz-practice/govtdebt2>
 
+## Visualizing world average Under-5 mortality rates since 1990
+
+
