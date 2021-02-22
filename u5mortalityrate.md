@@ -5,8 +5,9 @@ I realized that starting the y-axis of the graph at 40 instead of 0 made it seem
 I also felt that having 1960-2019 on the x-axis was a little confusing since the data started from 1990.
 
 I decided to rework this visualization using a bar chart because it's very easy to understand and still conveys the information that these figures have been consistently reducing over time. I also kept aspects I liked from the original visualization such as the dates in increments of 5 years.
-![](dataviz-practice/TSWD%20Initial%20sketch.jpeg)
+
 I am worried about the fact that the most recent year should be 2020 however, the data ends at 2019.
+![Image](dataviz-practice/TSWD%20Initial%20sketch.jpeg)
 
 I shared the sketch with a few people and the feedback was largely positive in terms of ease and getting a 'truer' picture. However, my sketch did not properly define that the rates were in terms of 1000. I was also advised to change the original title I used.
 
