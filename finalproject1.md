@@ -27,9 +27,9 @@ I plan to write my project about child mortality rates in Nigeria. The aim is to
    
    
    
-   **Data** is from [World Bank]<https://data.worldbank.org/indicator/SH.DYN.MORT?end=2019&start=1960&view=chart>, [UNICEF]<https://data.unicef.org/country/nga/>, [Nigeria Demographic Health Survey]<https://reliefweb.int/report/nigeria/who-and-nigerian-government-collaborate-curtail-child-mortality-country>. These sources are linked and in some cases, I extracted the data and created an excel document so it's easier for me and I can work with the relevant years.
+   **Data** is from [World Bank](https://data.worldbank.org/indicator/SH.DYN.MORT?end=2019&start=1960&view=chart), [UNICEF](https://data.unicef.org/country/nga/), [Nigeria Demographic Health Survey](https://reliefweb.int/report/nigeria/who-and-nigerian-government-collaborate-curtail-child-mortality-country). These sources are linked and in some cases, I extracted the data and created an excel document so it's easier for me and I can work with the relevant years.
   
-   **Method and Medium:** Currently, I hope to use Shorthand for my final presentation because I really want it to be like a story and I want my visualizations to tell the main story. I want to be able to keep elements from my actual presentations like asking the audience to guess which line represents Nigeria (explained above). I plan to use **Tableau** and **Flourish** to create my visualizations.
+   **Method and Medium:** Currently, I hope to use Shorthand for my final presentation because I really want it to be like a story and I want my visualizations to tell the main story. The content is dark and heavy and I hope using a platform like Shorthand will help me keep it interestng long enough to get my point across. I want to be able to keep elements from my actual presentations like asking the audience to guess which line represents Nigeria (explained above). I plan to use **Tableau** and **Flourish** to create my visualizations.
  
 
 
