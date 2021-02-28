@@ -6,7 +6,7 @@ I plan to write my project about child mortality rates in Nigeria. The aim is to
 ![Image](/dataviz-practice/Smiley%20Chart.jpeg)
 
 ## Outline
- ### Introduction
+### Introduction
  This will contain my **hook statement** (1 in 8 children in Nigeria die before their 5th birthday, ![Image](/dataviz-practice/1%20in%208.jpeg)) and I will segue into why I am interested in child mortality (**a personal story**). I will end this section by giving a broad overview of terms as it relates to my presentation.
  
   ### Body
