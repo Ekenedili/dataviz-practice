@@ -56,7 +56,7 @@ Ogun performed best, out of how many. And what was the U-5 mortality rate there 
 
 ## Interviewee #3, food & nutrition expert looking to specialize in child nutrition
 I understand that there was a concerted effort by the world to reduce child mortality and initially, I thought Nigeria was doing so well but when I saw the comparison, I was surprised at how bad we are doing. 
-I like the Ghana comparison a lot. I also like the line chart with Ghana, World Average and Nigeria. I would have loved to see comparisons with more countries; is that possible? I think you should maintain the same color for all the countries. I like that you highlighted that there was no accurate data available on a sub-national level because I was curious as to how individual states were faring.
+I like the Ghana comparison a lot. I also like the line chart with Ghana, World Average and Nigeria. I would have loved to see comparisons with more countries; is that possible? I think you should maintain the same color for all the countries. I like that you highlighted that there was no accurate data available on a sub-national level because I was curious as to how individual states were faring.The red is too red? Like neon?
 Nigeria’s figures are very bad. 1 in 8 children die before their 5th birthday? That’s too much.
 
 ## Interviewee #4, classmate
@@ -83,6 +83,23 @@ I think picking a color theme would be nice and using a different type of visual
 I would include reasoning for comparison to Ghana and have a slide for the call to action itself. Include reasons for why child mortality has reduced and how those factors can continue reducing mortality       
 I think you could remove the red X on the child in one of the visualizations
 This story depicts Nigeria's progress in reducing infant/under 5 mortality.
+
+Before implementing this feedback, I also showed 2 classmates in the breakout room during class and salient points from their feedback:'too many bar charts, maybe make all of them one bar chart" "I really like the picture where you crossed out a child"
+
+### Common issues
+After reading the feedback, I realized that while screenshotting my visuals for the wireframe, I cut out important information like title of the visualization and axis labels.
+
+I used too many bar charts.
+
+I need to stick with one color scheme.
+
+I should consider a different way of showing that 1 in 8 children die.
+
+I should consider toning down the intensity of the colors I used especially the red.
+
+## Moving On...
+
+I am going to move to Shorthand to start the actual storytelling. I will ensure published data has the titles as well axis labels (this is in the actual data visualization) I will also play around with a group of line charts to show the general trend then an interactive bar chart for the comparisons. I am also leaning towards 2 calls to action: 1) To implement the UN/WHO guidelines to reduce child mortality and 2) To collect accurate data locally. I also want to try to see how else I can say that 1 in 8 children will die; maybe desaturate the color of one of the eight children instead of crossing out.
 
 
 
