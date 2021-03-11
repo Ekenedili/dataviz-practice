@@ -9,6 +9,8 @@ I took all these into account and started the wireframe on Balsamiq. Building on
 
 Using advice from my pre-wireframe interviews, I decided to use a country similar to Nigeria for further comparison. I chose Ghana because of similarities like 1) location - West Africa 2) colonized by the British just like Nigeria so certain similarity in cultures and independence gained at around the same time 3) similar disease epidemiology - malaria and other infectious diseases that contribute to child mortality 4) similar homogenous black populations 5) similar GDP, also a lower-middle-income country.
 
+I was unable to get accurate data at the sub-national level so I was unable to include that. I made a note of it in my wireframe.
+
 This is what my wireframe looked like(I am attaching screenshots because I did it on Balsamiq Desktop and I cannot quite figure out how to share):
 
 
