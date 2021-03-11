@@ -1,4 +1,4 @@
-## Process and Wireframe
+# Process and Wireframe
 This week, I focused on wireframing my final presentation as well as getting feedback on how well my attempt translated to various people (user research).
 I initially planned to do this by hand but last minute decided to try out balsamiq. Balsamiq was easier to use than I initially imagined so that was a big plus.
 
@@ -24,7 +24,7 @@ This is what my wireframe looked like(I am attaching screenshots because I did i
 
 
 
-## User Research Protocol
+# User Research Protocol
 a) My intended audience is the Minister of Health so I asked a friend who works in the Ministry who would typically sit in on such a presentation. I was told the Minister's PA and other departments like communication, public health b) so I decided on 1) a doctor who works in public health 2) a communications expert who makes health-related content 3) an American classmate (to get an idea of how a non-Nigerian audience may receive the content). I also asked 3 other people I selected at random to serve as a random audience that may come across my project.
 c) My interview script was:
 Hi!
@@ -40,34 +40,35 @@ f) If you had to summarize this presentation in a sentence, what would you say?
 I am open to any other suggestions, insights, criticisms you would like to offer.
 
 Thank you so much for your time!
-# Findings
-# Interviewee #1, Medical Doctor, works in Public Health
+## Findings
+## Interviewee #1, Medical Doctor, works in Public Health
 a)	The figures in Nigeria have improved progressively although it’s remained worse than the world average. The improvement seems to have slowed between 2015-2019.
 b)	I am not confused by anything.
 c)	I think you should be consistent in the color scheme e.g: grey for world, blue for Ghana and red for Nigeria. You may also want to change one of your bar charts to a line graph; too many bar charts. You can also consider leaving Nigeria as the second bar in both comparisons for uniformity.
 d)	You may have forgotten but please, add titles and axis labels to your plots. I would also like to see how much of the world child deaths Nigeria contributes to if that’s possible.
 e)	You don’t need to take out anything
 f)	Pls see a)
-# Interviewee #2, Comms expert that makes health-related content
-         Use the same bar colors across. In the first image, the global U-5 mortality rate was represented with a blue color and Nigeria was represented with a lavender color. Please, let that be consistent across the entire thing. Which means that Ghana’s color will change
-Red might be best for Nigeria because it’s the country with the most problems
-In the last frame where you mention Ogun state as the best performing state, I didn’t see anywhere in the doc that you established that Nigeria had 36 states to begin with. Ogun performed best, out of how many. And what was the U-5 mortality rate there and how does that compare to the global average in 2018 as well?
+## Interviewee #2, Comms expert that makes health-related content
+ Use the same bar colors across. In the first image, the global U-5 mortality rate was represented with a blue color and Nigeria was represented with a lavender color. Please, let that be consistent across the entire thing, this means that Ghana’s color will change
+Red might be best for Nigeria because it’s the country with the most problems.
+In the last frame where you mention Ogun state as the best performing state, I didn’t see anywhere in the doc that you established that Nigeria had 36 states to begin with.
+Ogun performed best, out of how many. And what was the U-5 mortality rate there and how does that compare to the global average in 2018 as well?
 
-# Interviewee #3, food & nutrition expert looking to specialize in child nutrition
+## Interviewee #3, food & nutrition expert looking to specialize in child nutrition
 I understand that there was a concerted effort by the world to reduce child mortality and initially, I thought Nigeria was doing so well but when I saw the comparison, I was surprised at how bad we are doing. 
 I like the Ghana comparison a lot. I also like the line chart with Ghana, World Average and Nigeria. I would have loved to see comparisons with more countries; is that possible? I think you should maintain the same color for all the countries. I like that you highlighted that there was no accurate data available on a sub-national level because I was curious as to how individual states were faring.
 Nigeria’s figures are very bad. 1 in 8 children die before their 5th birthday? That’s too much.
 
-# Interviewee #4 and 5, classmates
-a) I noticed bar graphs with different color schemes | I notice a few bar charts 
-b) After the first data visualization, the rest of the viz did not have titles so it made it a little difficult to ascertain what the graph was trying to say | I am confused by the acronyms that are used in the slide for Under 5 Mortality. What was the reason for comparing Nigeria to Ghana? Do they have similar populations and public health issues? what is the call to action?
-c) It would be good to have a consistent color scheme throughout the whole storyboard! Also, add titles to the data visualizations | I think picking a color theme would be nice and using a different type of visualization for one of the bar charts would add variety. I would change the way you crossed out a child in one of the visualizations, I don't know if that's appropriate. Maybe use color to highlight them or make the other children in the visualization have some color.
-d) It may be good to include a "hook" part in the beginning because you do start out with a bunch of information in the first slide. It would be good to ease the audience into your story | I would include reasoning for comparison to Ghana and have a slide for the call to action itself. Include reasons for why child mortality has reduced and how those factors can continue reducing mortality 
-e) It may be best to not get too wordy with the content in your storyboard as it makes it difficult for the audience to get in your story. Having bullet points would definitely help! | I think you could remove the red X on the child in one of the visualizations
-f) Nigeria still has a lot to accomplish in terms of child mortality under the ages of 5 years old when compared to other countries | This story depicts Nigeria's progress in reducing infant/under 5 mortality.
+## Interviewee #4, classmate
+a) I noticed bar graphs with different color schemes.  
+b) After the first data visualization, the rest of the viz did not have titles so it made it a little difficult to ascertain what the graph was trying to say
+c) It would be good to have a consistent color scheme throughout the whole storyboard! Also, add titles to the data visualizations
+d) It may be good to include a "hook" part in the beginning because you do start out with a bunch of information in the first slide. It would be good to ease the audience into your story
+e) It may be best to not get too wordy with the content in your storyboard as it makes it difficult for the audience to get in your story. Having bullet points would definitely help! 
+f) Nigeria still has a lot to accomplish in terms of child mortality under the ages of 5 years old when compared to other countries
 It would be best to include what your final call to action is specifically. What can we do about the decreasing child mortality rates in Nigeria?? Also, I am guessing that your audience is aimed at policymakers in Nigeria or? Also for the "Under 5 Mortality" part, you can visually represent the target goal with a progress bar on Balsamiq. There are many icons and tools that can help make it more visually apparent than words.
 
-# Interviewee #5, classmate
+## Interviewee #5, classmate
 a) The visuals seem very apt for the data you're presenting. The color seemed very indicative of what is being highlighted and needs more focus and the color for the comparisons also made sense. I like the question at the bottom to lead the flow of thought process.
 b) The purple visualization initially throws me off because the rest is mostly red and blue. 
 c) I would change the purple color to something that you can keep consistent to stand for Nigeria maybe a maroon. I also would change the shade of red and blue that you used to keep them consistent and less bright because it can look like neon with different brightness levels. 
@@ -75,10 +76,13 @@ d) For the comparison visualization, maybe include a title that describes the ob
 e) I would remove a few words from the first slide because the SDG and MDG can be more concise to reduce the time to read the words on the slide.
 f) While the Under 5 mortality rate is decreasing in Nigeria, it continues to stay high compared to the world and similar countries. 
 
-
-      
-
-
+## Interviewee #6, classmate
+I notice a few bar charts
+I am confused by the acronyms that are used in the slide for Under 5 Mortality. What was the reason for comparing Nigeria to Ghana? Do they have similar populations and public health issues? what is the call to action?
+I think picking a color theme would be nice and using a different type of visualization for one of the bar charts would add variety. I would change the way you crossed out a child in one of the visualizations, I don't know if that's appropriate. Maybe use color to highlight them or make the other children in the visualization have some color.
+I would include reasoning for comparison to Ghana and have a slide for the call to action itself. Include reasons for why child mortality has reduced and how those factors can continue reducing mortality       
+I think you could remove the red X on the child in one of the visualizations
+This story depicts Nigeria's progress in reducing infant/under 5 mortality.
 
 
 
