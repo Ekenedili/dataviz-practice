@@ -99,7 +99,7 @@ I should consider toning down the intensity of the colors I used especially the 
 
 ## Moving On...
 
-I am going to move to Shorthand to start the actual storytelling. I will ensure published data has the titles as well axis labels (this is in the actual data visualization) I will also play around with a group of line charts to show the general trend then an interactive bar chart for the comparisons. I am also leaning towards 2 calls to action: 1) To implement the UN/WHO guidelines to reduce child mortality and 2) To collect accurate data locally. I also want to try to see how else I can say that 1 in 8 children will die; maybe desaturate the color of one of the eight children instead of crossing out.
+I am going to move to Shorthand to start the actual storytelling. I will ensure published data has the titles as well axis labels (this is in the actual data visualization) I will also play around with a group of line charts to show the general trend then an interactive bar chart for the comparisons. I am also leaning towards 2 calls to action: 1) To implement the UN/WHO guidelines to reduce child mortality and 2) To collect accurate data locally. I also want to try to see how else I can say that 1 in 8 children will die; maybe desaturate the color of one of the eight children instead of crossing out. I will also retain the technical introduction since this is a technical presentation but I will try to personalize it in my presentation to the class and gloss over more technical/specialized aspects.
 
 
 
