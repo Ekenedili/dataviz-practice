@@ -93,7 +93,7 @@ I used too many bar charts.
 
 I need to stick with one color scheme.
 
-I should consider a different way of showing that 1 in 8 children die.
+I should consider a different way of showing that 1 in 8 children die; everyone liked the intent but some people did not like the current display.
 
 I should consider toning down the intensity of the colors I used especially the red.
 
