@@ -37,7 +37,8 @@ I plan to write my project about child mortality rates in Nigeria. The aim is to
   
    **Method and Medium:** Currently, I hope to use Shorthand for my final presentation because I really want it to be like a story and I want my visualizations to tell the main story. The content is dark and heavy and I hope using a platform like Shorthand will help me keep it interestng long enough to get my point across. I want to be able to keep elements from my actual presentations like asking the audience to guess which line represents Nigeria (explained above). I plan to use **Tableau** and **Flourish** to create my visualizations.
  
-
+[To see part II, click here](https://ekenedili.github.io/dataviz-practice/finalproject2)
+[To see part III, click here](https://ekenedili.github.io/dataviz-practice/finalproject3)
 [To return to the homepage, click here](https://ekenedili.github.io/dataviz-practice/)
 
 
