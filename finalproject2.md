@@ -100,5 +100,8 @@ I should consider toning down the intensity of the colors I used especially the 
 
 I am going to move to Shorthand to start the actual storytelling. I will ensure published data has the titles as well axis labels (this is in the actual data visualization) I will also play around with a group of line charts to show the general trend then an interactive bar chart for the comparisons. I will see how using toned down colours instead of neon translate to a better visualization. I will also stick to one color scheme and order to make interpretation of the visualizations as easy as possible. I am also leaning towards 2 calls to action: 1) To implement the UN/WHO guidelines to reduce child mortality and 2) To collect accurate data locally. I also want to try to see how else I can say that 1 in 8 children will die; maybe desaturate the color of one of the eight children instead of crossing out. I will also retain the technical introduction since this is a technical presentation but I will try to personalize it in my presentation to the class and gloss over more technical/specialized aspects.
 
+[To go to part I, click here](https://ekenedili.github.io/dataviz-practice/finalproject1)
+[To go to part III, click here](https://ekenedili.github.io/dataviz-practice/finalproject3)
+
 [To return to the homepage, click here](https://ekenedili.github.io/dataviz-practice/)
 
