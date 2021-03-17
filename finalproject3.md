@@ -26,5 +26,7 @@ In conclusion, another important takeaway from this project was flexibility. I w
 
 Click [here](https://carnegiemellon.shorthandstories.com/under-5-u5--mortality-in-nigeria/index.html) to see my fnal project on shorthand.
 
-To see [part I] and [part II](https://ekenedili.github.io/dataviz-practice/finalproject2) and to go to the [homepage](https://ekenedili.github.io/dataviz-practice/)
+To see [part I](https://ekenedili.github.io/dataviz-practice/finalproject1) and [part II](https://ekenedili.github.io/dataviz-practice/finalproject2).
+
+To go to the [homepage](https://ekenedili.github.io/dataviz-practice/)
 
