@@ -52,7 +52,7 @@ Photo credits: Photo by William Fortunato from Pexels and Betta Edu
 
 
 
-To see [part I](https://ekenedili.github.io/dataviz-practice/finalproject1) and [part II](https://ekenedili.github.io/dataviz-practice/finalproject2).
+To see part I, click [here](https://ekenedili.github.io/dataviz-practice/finalproject1) and to see part II, click [here](https://ekenedili.github.io/dataviz-practice/finalproject2).
 
 To go to the [homepage](https://ekenedili.github.io/dataviz-practice/)
 
