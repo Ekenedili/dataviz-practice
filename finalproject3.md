@@ -35,11 +35,13 @@ That's pretty much my process for this final part. I also tried to get feedback 
 The best thing I learned in this class and from the workbook/textbook was to let the data be captivating to the audience and also intuitive without my audience having to read the text. I think I was able to achieve both with the visualizations I used. 
 
 
-Click [here](https://carnegiemellon.shorthandstories.com/under-5-u5--mortality-in-nigeria/index.html) to see my final project/presentation on shorthand.
+
 
 To see [part I](https://ekenedili.github.io/dataviz-practice/finalproject1) and [part II](https://ekenedili.github.io/dataviz-practice/finalproject2).
 
 To go to the [homepage](https://ekenedili.github.io/dataviz-practice/)
+
+Click [here](https://carnegiemellon.shorthandstories.com/under-5-u5--mortality-in-nigeria/index.html) to see my final project/presentation on shorthand. 
 
 
 <script src="https://embed.shorthand.com/embed_10.js"></script>
