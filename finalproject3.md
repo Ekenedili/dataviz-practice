@@ -41,3 +41,6 @@ To see [part I](https://ekenedili.github.io/dataviz-practice/finalproject1) and 
 
 To go to the [homepage](https://ekenedili.github.io/dataviz-practice/)
 
+
+<script src="https://embed.shorthand.com/embed_10.js"></script>
+<div data-shorthand-embed="carnegiemellon.shorthandstories.com/under-5-u5--mortality-in-nigeria/"><h1>UNDER-5(U5) MORTALITY IN NIGERIA</h1><p>How bad?</p></div>
