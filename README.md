@@ -19,15 +19,6 @@ I am new to all of this but here's where you can find all my *definitely* **cool
 
 
 
-
-## Visualizing Govt Debt part I
-<https://ekenedili.github.io/dataviz-practice/govtdebt1>
-
-
-
-## Visualizing Govt Debt part II
-<https://ekenedili.github.io/dataviz-practice/govtdebt2>
-
 ## Visualizing world average Under-5 mortality rates since 1990
 <https://ekenedili.github.io/dataviz-practice/u5mortalityrate>
 
@@ -39,5 +30,5 @@ I am new to all of this but here's where you can find all my *definitely* **cool
 ## Final Project for TSWD part II
 <https://ekenedili.github.io/dataviz-practice/finalproject2>
 
-## FInal Project for TSWD part III
-
+## Final Project for TSWD part III
+<https://ekenedili.github.io/dataviz-practice/finalproject3>
