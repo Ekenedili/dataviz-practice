@@ -35,11 +35,17 @@ That's pretty much my process for this final part. I also tried to get feedback 
 The best thing I learned in this class and from the workbook/textbook was to let the data be captivating to the audience and also intuitive without my audience having to read the text. I think I was able to achieve both with the visualizations I used. 
 
 Resources:
+
 Literacy Rates: <https://data.worldbank.org/indicator/SE.ADT.1524.LT.ZS>
+
 Mortality Rates: <https://data.worldbank.org/indicator/SH.DYN.MORT> 
+
 Nigeria Indicators: <https://databank.worldbank.org/reports.aspx?source=2&series=SH.DYN.MORT&country=NGA>
+
 Achieving SDG 3.2: <https://www.un.org/en/development/desa/population/publications/pdf/popfacts/PopFacts_2017-6.pdf https://ourworldindata.org/child-mortality-global-goal>
+
 A little more about Iceland: <https://www.euro.who.int/__data/assets/pdf_file/0014/130136/E72496.pdf>
+
 Photo credits: Photo by William Fortunato from Pexels and Betta Edu
 
 
