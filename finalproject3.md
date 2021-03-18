@@ -34,7 +34,7 @@ That's pretty much my process for this final part. I also tried to get feedback 
 
 The best thing I learned in this class and from the workbook/textbook was to let the data be captivating to the audience and also intuitive without my audience having to read the text. I think I was able to achieve both with the visualizations I used. 
 
-## Resources:##
+## Resources:
 
 Literacy Rates: <https://data.worldbank.org/indicator/SE.ADT.1524.LT.ZS>
 
